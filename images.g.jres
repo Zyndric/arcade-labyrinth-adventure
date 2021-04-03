@@ -1,8 +1,20 @@
 {
-    "image4": "hwQNABAAAAAA8M//APDuAAD/z///7+QA8P/P/+T//wDw//y/Qb9n//////9Pfmf/////7kR+Zw//z+/uRH5nD//M7/9Pfmf/8P//v0G/Z//w///85P//AAD/z/z/7+QAAMDM/wDw7gAAAAAAAAAAAA==",
-    "image6": "hwQNABAAAAAAAP8AAAAAAAAA//z/8A4AAPD//P/vBAAA///8T/7//wD/z/8btGf/8P////90Z//w///vTnRnD/D//O5OdGcP8M/8/v/kbg8A////G07kDwD//89PTuQAAPD/zP9PDgAAAMz8/+4AAA==",
-    "image7": "hwQNABAAAAAAAMz8/+4AAADw/8z/Tw4AAP//z09O5AAA////G07kD/DP/P7/5G4P8P/87k50Zw/w///vTnRnD/D/////dGf/AP/P/xu0Z/8A///8T/7//wDw//z/7wQAAAD//P/wDgAAAP8AAAAAAA==",
-    "image8": "hwQNABAAAAAA8M//APDuAAD/z///7+QA8P/P/+T//wDw//y/Qb9n//////9Pfmf/////7kR+Zw//z+/uRH5nD//M7/9Pfmf/8P//v0G/Z//w///85P//AAD/z/z/7+QAAMDM/wDw7gAAAAAAAAAAAA==",
+    "image8": {
+        "data": "hwQNABAAAAAA8M//APDuAAD/z///7+QA8P/P/+T//wDw//y/Qb9n//////9Pfmf/////7kR+Zw//z+/uRH5nD//M7/9Pfmf/8P//v0G/Z//w///85P//AAD/z/z/7+QAAMDM/wDw7gAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spieler steht"
+    },
+    "image6": {
+        "data": "hwQNABAAAAAAAP8AAAAAAAAA//z/8A4AAPD//P/vBAAA///8T/7//wD/z/8btGf/8P////90Z//w///vTnRnD/D//O5OdGcP8M/8/v/kbg8A////G07kDwD//89PTuQAAPD/zP9PDgAAAMz8/+4AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spieler Schritt links"
+    },
+    "image7": {
+        "data": "hwQNABAAAAAAAMz8/+4AAADw/8z/Tw4AAP//z09O5AAA////G07kD/DP/P7/5G4P8P/87k50Zw/w///vTnRnD/D/////dGf/AP/P/xu0Z/8A///8T/7//wDw//z/7wQAAAD//P/wDgAAAP8AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spieler Schritt rechts"
+    },
+    "image1": "hwQNABAAAAAA8M//APDuAAD/z///7+QA8P/P/+T//wDw//y/Qb9n//////9Pfmf/////7kR+Zw//z+/uRH5nD//M7/9Pfmf/8P//v0G/Z//w///85P//AAD/z/z/7+QAAMDM/wDw7gAAAAAAAAAAAA==",
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
