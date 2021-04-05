@@ -44,7 +44,7 @@ function nächstes_Level () {
     Blubberblasen = 0
     Schneeeffekt = 0
     level += 1
-    if (level == 0) {
+    if (level == 1) {
         tiles.setTilemap(tilemap`Level0`)
         setzeExplorer(0, 2)
         game.showLongText("Level 1-1", DialogLayout.Bottom)
@@ -83,11 +83,11 @@ function nächstes_Level () {
     } else if (level == 7) {
         music.powerUp.play()
         game.splash("...")
-        tiles.setTilemap(tilemap`Level23`)
+        tiles.setTilemap(tilemap`Level3`)
         setzeExplorer(0, 0)
         Blubberblasen = 1
         game.showLongText("Level 2-3", DialogLayout.Bottom)
-    } else if (level == 1) {
+    } else if (level == 8) {
         music.powerUp.play()
         game.splash("...")
         tiles.setTilemap(tilemap`Level31`)
