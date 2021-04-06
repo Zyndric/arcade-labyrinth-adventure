@@ -90,10 +90,12 @@ function nächstes_Level () {
     } else if (level == 8) {
         music.powerUp.play()
         game.splash("...")
+        tiles.setTilemap(tilemap`Level16`)
+        setzeExplorer(7, 7)
+        Blubberblasen = 1
+        game.showLongText("Level 2-4", DialogLayout.Bottom)
+    } else if (false) {
         tiles.setTilemap(tilemap`Level31`)
-        setzeExplorer(0, 0)
-        Schneeeffekt = 1
-        game.showLongText("Level 3-1", DialogLayout.Bottom)
     } else {
         music.powerUp.play()
         game.splash("Here're your underpants!", "Why did you take them off?")
